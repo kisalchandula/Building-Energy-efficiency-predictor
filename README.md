@@ -1,2 +1,2 @@
 # Building-Energy-efficiency-predictor
-Machine learning prediction for energy efficiency
+Simple Machine learning prediction web aplication for predicting energy efficiency of buildings.

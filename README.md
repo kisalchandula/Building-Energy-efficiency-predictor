@@ -3,4 +3,4 @@ Simple Machine learning prediction web aplication for predict energy efficiency 
 The application is fully build and deplyed using R shiny.
 Random forest algorithm is using for modelling data for the prediction.
 
-Demonstration video -> [https://www.youtube.com/watch?v=iEq2xvTD2Ss&list=PLWyw_FnOTqWk5I4SiJv4tmwZ3j5dBZxja]()
+Check the the Shiny app -> [https://kisal-wijeyesekera.shinyapps.io/energy/]()
